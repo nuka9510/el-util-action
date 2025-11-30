@@ -1,0 +1,57 @@
+{
+  "name": "@nuka9510/el-util-action",
+  "version": "1.0.0",
+  "description": "@nuka9510/el-util plugin util action",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/esm/index.min.mjs",
+      "require": "./dist/cjs/index.min.cjs"
+    },
+    "./@types/action": {
+      "types": "./@types/action.d.ts"
+    }
+  },
+  "files": [
+    "@types",
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -r -f dist && tsc && webpack --config webpack.config.cjs",
+    "postversion": "git push && git push --tag && npm publish --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuka9510/el-util-action.git"
+  },
+  "keywords": [
+    "util",
+    "web",
+    "front-end",
+    "element",
+    "module",
+    "CommonJS",
+    "ES Module",
+    "cjs",
+    "esm"
+  ],
+  "author": "nuka9510",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuka9510/el-util-action/issues"
+  },
+  "homepage": "https://github.com/nuka9510/el-util-action/wiki",
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/webpack": "^5.28.5",
+    "ts-node": "^10.9.2",
+    "webpack": "^5.99.5",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "@nuka9510/el-util": "^1.7.0",
+    "@nuka9510/js-util": "^1.2.7"
+  }
+}

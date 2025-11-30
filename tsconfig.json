@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "strictNullChecks": false,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUncheckedIndexedAccess": true,
+    "moduleResolution": "bundler",
+    "useDefineForClassFields": true,
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "target": "ESNext",
+    "declaration": true,
+    "declarationDir": "dist",
+    "outDir": "dist",
+    "baseUrl": ".",
+    "paths": {
+      "@nuka9510/el-util-action": ["src/index.ts"],
+      "@nuka9510/el-util-action/@types/action": ["@types/action.d.ts"]
+    }
+  },
+  "include": [
+    "src/index.ts"
+  ]
+}

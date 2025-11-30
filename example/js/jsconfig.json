@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "checkJs": false,
+    "strictNullChecks": false,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUncheckedIndexedAccess": true,
+    "moduleResolution": "node",
+    "useDefineForClassFields": true,
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "target": "ESNext",
+    "paths": {
+      "@nuka9510/js-util": [ "../../node_modules/@nuka9510/js-util/dist/index.d.ts" ],
+      "@nuka9510/el-util": [ "../../node_modules/@nuka9510/el-util/dist/index.d.ts" ],
+      "@nuka9510/el-util-action": [ "../../dist/index.d.ts" ],
+      "@nuka9510/el-util/@types/common": ["../../node_modules/@nuka9510/el-util/@types/common.d.ts"],
+      "@nuka9510/el-util/@types/interceptor": ["../../node_modules/@nuka9510/el-util/@types/interceptor.d.ts"],
+      "@nuka9510/el-util/@types/plugin": ["../../node_modules/@nuka9510/el-util/@types/plugin.d.ts"],
+      "@nuka9510/el-util-action/@types/action": ["../../@types/action.d.ts"]
+    }
+  }
+}
