@@ -9,28 +9,28 @@
 ![NPM-DOWNLOAD][npm-download]
 ![TOP-LANGUAGE][top-language]
 
-[license]: https://img.shields.io/npm/l/%40nuka9510%2Fel-util
-[license-url]: https://github.com/nuka9510/el-util/blob/main/LICENSE
+[license]: https://img.shields.io/npm/l/%40nuka9510%2Fel-util-action
+[license-url]: https://github.com/nuka9510/el-util-action/blob/main/LICENSE
 
-[github-version]: https://img.shields.io/github/package-json/v/nuka9510/el-util?logo=github
-[github-version-url]: https://github.com/nuka9510/el-util
+[github-version]: https://img.shields.io/github/package-json/v/nuka9510/el-util-action?logo=github
+[github-version-url]: https://github.com/nuka9510/el-util-action
 
-[npm-version]: https://img.shields.io/npm/v/%40nuka9510%2Fel-util?logo=npm
-[npm-version-url]: https://www.npmjs.com/package/@nuka9510/el-util
+[npm-version]: https://img.shields.io/npm/v/%40nuka9510%2Fel-util-action?logo=npm
+[npm-version-url]: https://www.npmjs.com/package/@nuka9510/el-util-action
 
-[github-last-commit]: https://img.shields.io/github/last-commit/nuka9510/el-util?logo=github
+[github-last-commit]: https://img.shields.io/github/last-commit/nuka9510/el-util-action?logo=github
 
-[npm-last-update]: https://img.shields.io/npm/last-update/%40nuka9510%2Fel-util?logo=npm
+[npm-last-update]: https://img.shields.io/npm/last-update/%40nuka9510%2Fel-util-action?logo=npm
 
-[github-repo-size]: https://img.shields.io/github/repo-size/nuka9510/el-util?logo=github
+[github-repo-size]: https://img.shields.io/github/repo-size/nuka9510/el-util-action?logo=github
 
-[npm-unpacked-size]: https://img.shields.io/npm/unpacked-size/%40nuka9510%2Fel-util?logo=npm
+[npm-unpacked-size]: https://img.shields.io/npm/unpacked-size/%40nuka9510%2Fel-util-action?logo=npm
 
-[jsdelivr-download]: https://img.shields.io/jsdelivr/npm/hm/%40nuka9510/el-util?logo=jsdelivr
+[jsdelivr-download]: https://img.shields.io/jsdelivr/npm/hm/%40nuka9510/el-util-action?logo=jsdelivr
 
-[npm-download]: https://img.shields.io/npm/dm/%40nuka9510%2Fel-util?logo=npm
+[npm-download]: https://img.shields.io/npm/dm/%40nuka9510%2Fel-util-action?logo=npm
 
-[top-language]: https://img.shields.io/github/languages/top/nuka9510/el-util
+[top-language]: https://img.shields.io/github/languages/top/nuka9510/el-util-action
 
 ## Install
 
