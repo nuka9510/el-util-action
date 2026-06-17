@@ -3,7 +3,7 @@
 [![NPM-VERSION][npm-version]][npm-version-url]
 ![GITHUB-LAST-COMMIT][github-last-commit]
 ![NPM-LAST-UPDATE][npm-last-update]
-![GITHUB-REPO-SIZE][github-repo-size]
+![GITHUB-CODE-SIZE][github-code-size]
 ![NPM-UNPACKED-SIZE][npm-unpacked-size]
 ![JSDELIVR-DOWNLOAD][jsdelivr-download]
 ![NPM-DOWNLOAD][npm-download]
@@ -22,7 +22,7 @@
 
 [npm-last-update]: https://img.shields.io/npm/last-update/%40nuka9510%2Fel-util-action?logo=npm
 
-[github-repo-size]: https://img.shields.io/github/repo-size/nuka9510/el-util-action?logo=github
+[github-code-size]: https://img.shields.io/github/languages/code-size/nuka9510/el-util-action?logo=github
 
 [npm-unpacked-size]: https://img.shields.io/npm/unpacked-size/%40nuka9510%2Fel-util-action?logo=npm
 
